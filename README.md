@@ -4,13 +4,17 @@
 
 * Overview of computer architecture
 * Overview of assembly
-* Overview of BIOS, Kernel and OS. Setup nasm and qemu.
-* Start chapter wise [1] upto *02-bootsector-print*
-* Memory management from [1]
-  * stack, heap, disk
-* Resume from [1] upto *07-bootsector-disk*
-
+* Setup the environment
+* The Boot Process
+  * BIOS POST
+  * THE BIOS
+  * BIOS INTERRUPTS
+  * Hard Disk Drive Basics
+* Bootloader Theory
+  * Developing a simple bootloader 
+  * Make it print "Hello World" on screen
+* Multi-stage Bootloader 
 
 **Resources**
 
-[1] https://github.com/cfenollosa/os-tutorial
+[1] http://www.brokenthorn.com/Resources/OSDevIndex.html

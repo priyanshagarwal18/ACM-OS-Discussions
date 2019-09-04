@@ -2,17 +2,17 @@
 
 **Coursework Autumn Semester 2019-2020**
 
-* Overview of computer architecture
-* Overview of assembly
-* Setup the environment
+* Overview of Computer Architecture
+* Overview of Assembly
+* Setup the Environment
 * The Boot Process
   * BIOS POST
   * THE BIOS
   * BIOS INTERRUPTS
   * Hard Disk Drive Basics
 * Bootloader Theory
-  * Developing a simple bootloader 
-  * Make it print "Hello World" on screen
+  * Developing a Simple Bootloader 
+  * Make it Print "Hello World" on Screen
 * Multi-stage Bootloader 
 
 **Resources**
